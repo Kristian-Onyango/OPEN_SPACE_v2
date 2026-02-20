@@ -1,0 +1,15 @@
+{
+  "f994a240-3aa3-4114-afd3-9f5ab9e1bc33": {
+    "name": "fedora",
+    "ip": "192.168.1.103",
+    "last_seen": 1771154508.9973247,
+    "role": "game",
+    "role_trusted": true,
+    "status": "dead",
+    "health": 1.0,
+    "services": [
+      "games"
+    ],
+    "service_port": 5000
+  }
+}
